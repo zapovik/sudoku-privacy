@@ -1,0 +1,2 @@
+# sudoku-privacy
+PrivacyPolicy Sudoku
